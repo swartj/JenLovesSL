@@ -1,0 +1,218 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(1129,5): warning MSB8027: Mehrere Dateien mit dem Namen Callback.cpp führen zu Ausgaben am selben Speicherort. Dadurch kann ein falsches Buildergebnis entstehen. Die betroffenen Dateien sind ..\Il2cpp_Resolver\Functions\Callback.cpp, Callback.cpp.
+  Quellen werden auf Modulabhängigkeiten überprüft...
+  main.cpp
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(12,9): warning C4005: "DXGI_STATUS_OCCLUDED": Makro-Neudefinition
+  (Quelldatei „main.cpp“ wird kompiliert)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(58984,9):
+      siehe vorherige Definition von "DXGI_STATUS_OCCLUDED"
+  
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(13,9): warning C4005: "DXGI_STATUS_CLIPPED": Makro-Neudefinition
+  (Quelldatei „main.cpp“ wird kompiliert)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(58993,9):
+      siehe vorherige Definition von "DXGI_STATUS_CLIPPED"
+  
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(14,9): warning C4005: "DXGI_STATUS_NO_REDIRECTION": Makro-Neudefinition
+  (Quelldatei „main.cpp“ wird kompiliert)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59002,9):
+      siehe vorherige Definition von "DXGI_STATUS_NO_REDIRECTION"
+  
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(15,9): warning C4005: "DXGI_STATUS_NO_DESKTOP_ACCESS": Makro-Neudefinition
+  (Quelldatei „main.cpp“ wird kompiliert)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59011,9):
+      siehe vorherige Definition von "DXGI_STATUS_NO_DESKTOP_ACCESS"
+  
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(16,9): warning C4005: "DXGI_STATUS_GRAPHICS_VIDPN_SOURCE_IN_USE": Makro-Neudefinition
+  (Quelldatei „main.cpp“ wird kompiliert)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59020,9):
+      siehe vorherige Definition von "DXGI_STATUS_GRAPHICS_VIDPN_SOURCE_IN_USE"
+  
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(17,9): warning C4005: "DXGI_STATUS_MODE_CHANGED": Makro-Neudefinition
+  (Quelldatei „main.cpp“ wird kompiliert)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59029,9):
+      siehe vorherige Definition von "DXGI_STATUS_MODE_CHANGED"
+  
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(18,9): warning C4005: "DXGI_STATUS_MODE_CHANGE_IN_PROGRESS": Makro-Neudefinition
+  (Quelldatei „main.cpp“ wird kompiliert)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59038,9):
+      siehe vorherige Definition von "DXGI_STATUS_MODE_CHANGE_IN_PROGRESS"
+  
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(21,9): warning C4005: "DXGI_ERROR_INVALID_CALL": Makro-Neudefinition
+  (Quelldatei „main.cpp“ wird kompiliert)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59053,9):
+      siehe vorherige Definition von "DXGI_ERROR_INVALID_CALL"
+  
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(22,9): warning C4005: "DXGI_ERROR_NOT_FOUND": Makro-Neudefinition
+  (Quelldatei „main.cpp“ wird kompiliert)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59062,9):
+      siehe vorherige Definition von "DXGI_ERROR_NOT_FOUND"
+  
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(23,9): warning C4005: "DXGI_ERROR_MORE_DATA": Makro-Neudefinition
+  (Quelldatei „main.cpp“ wird kompiliert)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59071,9):
+      siehe vorherige Definition von "DXGI_ERROR_MORE_DATA"
+  
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(24,9): warning C4005: "DXGI_ERROR_UNSUPPORTED": Makro-Neudefinition
+  (Quelldatei „main.cpp“ wird kompiliert)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59080,9):
+      siehe vorherige Definition von "DXGI_ERROR_UNSUPPORTED"
+  
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(25,9): warning C4005: "DXGI_ERROR_DEVICE_REMOVED": Makro-Neudefinition
+  (Quelldatei „main.cpp“ wird kompiliert)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59089,9):
+      siehe vorherige Definition von "DXGI_ERROR_DEVICE_REMOVED"
+  
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(26,9): warning C4005: "DXGI_ERROR_DEVICE_HUNG": Makro-Neudefinition
+  (Quelldatei „main.cpp“ wird kompiliert)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59098,9):
+      siehe vorherige Definition von "DXGI_ERROR_DEVICE_HUNG"
+  
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(27,9): warning C4005: "DXGI_ERROR_DEVICE_RESET": Makro-Neudefinition
+  (Quelldatei „main.cpp“ wird kompiliert)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59108,9):
+      siehe vorherige Definition von "DXGI_ERROR_DEVICE_RESET"
+  
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(28,9): warning C4005: "DXGI_ERROR_WAS_STILL_DRAWING": Makro-Neudefinition
+  (Quelldatei „main.cpp“ wird kompiliert)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59117,9):
+      siehe vorherige Definition von "DXGI_ERROR_WAS_STILL_DRAWING"
+  
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(29,9): warning C4005: "DXGI_ERROR_FRAME_STATISTICS_DISJOINT": Makro-Neudefinition
+  (Quelldatei „main.cpp“ wird kompiliert)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59127,9):
+      siehe vorherige Definition von "DXGI_ERROR_FRAME_STATISTICS_DISJOINT"
+  
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(30,9): warning C4005: "DXGI_ERROR_GRAPHICS_VIDPN_SOURCE_IN_USE": Makro-Neudefinition
+  (Quelldatei „main.cpp“ wird kompiliert)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59136,9):
+      siehe vorherige Definition von "DXGI_ERROR_GRAPHICS_VIDPN_SOURCE_IN_USE"
+  
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(31,9): warning C4005: "DXGI_ERROR_DRIVER_INTERNAL_ERROR": Makro-Neudefinition
+  (Quelldatei „main.cpp“ wird kompiliert)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59146,9):
+      siehe vorherige Definition von "DXGI_ERROR_DRIVER_INTERNAL_ERROR"
+  
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(32,9): warning C4005: "DXGI_ERROR_NONEXCLUSIVE": Makro-Neudefinition
+  (Quelldatei „main.cpp“ wird kompiliert)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59155,9):
+      siehe vorherige Definition von "DXGI_ERROR_NONEXCLUSIVE"
+  
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(33,9): warning C4005: "DXGI_ERROR_NOT_CURRENTLY_AVAILABLE": Makro-Neudefinition
+  (Quelldatei „main.cpp“ wird kompiliert)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59164,9):
+      siehe vorherige Definition von "DXGI_ERROR_NOT_CURRENTLY_AVAILABLE"
+  
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(34,9): warning C4005: "DXGI_ERROR_REMOTE_CLIENT_DISCONNECTED": Makro-Neudefinition
+  (Quelldatei „main.cpp“ wird kompiliert)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59174,9):
+      siehe vorherige Definition von "DXGI_ERROR_REMOTE_CLIENT_DISCONNECTED"
+  
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(35,9): warning C4005: "DXGI_ERROR_REMOTE_OUTOFMEMORY": Makro-Neudefinition
+  (Quelldatei „main.cpp“ wird kompiliert)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59183,9):
+      siehe vorherige Definition von "DXGI_ERROR_REMOTE_OUTOFMEMORY"
+  
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\d3d11.h(917,9): warning C4005: "D3D11_ERROR_TOO_MANY_UNIQUE_STATE_OBJECTS": Makro-Neudefinition
+  (Quelldatei „main.cpp“ wird kompiliert)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59498,9):
+      siehe vorherige Definition von "D3D11_ERROR_TOO_MANY_UNIQUE_STATE_OBJECTS"
+  
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\d3d11.h(918,9): warning C4005: "D3D11_ERROR_FILE_NOT_FOUND": Makro-Neudefinition
+  (Quelldatei „main.cpp“ wird kompiliert)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59507,9):
+      siehe vorherige Definition von "D3D11_ERROR_FILE_NOT_FOUND"
+  
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\d3d11.h(919,9): warning C4005: "D3D11_ERROR_TOO_MANY_UNIQUE_VIEW_OBJECTS": Makro-Neudefinition
+  (Quelldatei „main.cpp“ wird kompiliert)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59517,9):
+      siehe vorherige Definition von "D3D11_ERROR_TOO_MANY_UNIQUE_VIEW_OBJECTS"
+  
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\d3d11.h(920,9): warning C4005: "D3D11_ERROR_DEFERRED_CONTEXT_MAP_WITHOUT_INITIAL_DISCARD": Makro-Neudefinition
+  (Quelldatei „main.cpp“ wird kompiliert)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59526,9):
+      siehe vorherige Definition von "D3D11_ERROR_DEFERRED_CONTEXT_MAP_WITHOUT_INITIAL_DISCARD"
+  
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\d3d10.h(608,9): warning C4005: "D3D10_ERROR_TOO_MANY_UNIQUE_STATE_OBJECTS": Makro-Neudefinition
+  (Quelldatei „main.cpp“ wird kompiliert)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59474,9):
+      siehe vorherige Definition von "D3D10_ERROR_TOO_MANY_UNIQUE_STATE_OBJECTS"
+  
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\d3d10.h(609,9): warning C4005: "D3D10_ERROR_FILE_NOT_FOUND": Makro-Neudefinition
+  (Quelldatei „main.cpp“ wird kompiliert)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59483,9):
+      siehe vorherige Definition von "D3D10_ERROR_FILE_NOT_FOUND"
+  
+C:\Users\kedan\Desktop\IL2CPP\Il2CPP-Base-main\Il2CPP-Base-main\ImGui DirectX 11 Kiero Hook\vec.h(226,14): warning C4244: "return": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „main.cpp“ wird kompiliert)
+  
+C:\Users\kedan\Desktop\IL2CPP\Il2CPP-Base-main\Il2CPP-Base-main\ImGui DirectX 11 Kiero Hook\sdk.h(346,22): warning C4305: "Initialisierung": Verkürzung von "double" in "float"
+  (Quelldatei „main.cpp“ wird kompiliert)
+  
+C:\Users\kedan\Desktop\IL2CPP\Il2CPP-Base-main\Il2CPP-Base-main\ImGui DirectX 11 Kiero Hook\sdk.h(358,17): warning C4305: "Initialisierung": Verkürzung von "double" in "float"
+  (Quelldatei „main.cpp“ wird kompiliert)
+  
+C:\Users\kedan\Desktop\IL2CPP\Il2CPP-Base-main\Il2CPP-Base-main\ImGui DirectX 11 Kiero Hook\Functions.h(1036,14): warning C4244: "return": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „main.cpp“ wird kompiliert)
+  
+C:\Users\kedan\Desktop\IL2CPP\Il2CPP-Base-main\Il2CPP-Base-main\ImGui DirectX 11 Kiero Hook\Functions.h(1041,14): warning C4244: "return": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „main.cpp“ wird kompiliert)
+  
+C:\Users\kedan\Desktop\IL2CPP\Il2CPP-Base-main\Il2CPP-Base-main\ImGui DirectX 11 Kiero Hook\Functions.h(1095,18): warning C4244: "Initialisierung": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „main.cpp“ wird kompiliert)
+  
+C:\Users\kedan\Desktop\IL2CPP\Il2CPP-Base-main\Il2CPP-Base-main\ImGui DirectX 11 Kiero Hook\Functions.h(1121,43): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „main.cpp“ wird kompiliert)
+  
+C:\Users\kedan\Desktop\IL2CPP\Il2CPP-Base-main\Il2CPP-Base-main\ImGui DirectX 11 Kiero Hook\Functions.h(1122,43): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „main.cpp“ wird kompiliert)
+  
+C:\Users\kedan\Desktop\IL2CPP\Il2CPP-Base-main\Il2CPP-Base-main\ImGui DirectX 11 Kiero Hook\Functions.h(1123,43): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „main.cpp“ wird kompiliert)
+  
+C:\Users\kedan\Desktop\IL2CPP\Il2CPP-Base-main\Il2CPP-Base-main\ImGui DirectX 11 Kiero Hook\Functions.h(1139,24): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „main.cpp“ wird kompiliert)
+  
+C:\Users\kedan\Desktop\IL2CPP\Il2CPP-Base-main\Il2CPP-Base-main\ImGui DirectX 11 Kiero Hook\Functions.h(1241,65): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „main.cpp“ wird kompiliert)
+  
+C:\Users\kedan\Desktop\IL2CPP\Il2CPP-Base-main\Il2CPP-Base-main\ImGui DirectX 11 Kiero Hook\Functions.h(1243,41): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „main.cpp“ wird kompiliert)
+  
+C:\Users\kedan\Desktop\IL2CPP\Il2CPP-Base-main\Il2CPP-Base-main\ImGui DirectX 11 Kiero Hook\Functions.h(1423,16): warning C4302: "Typumwandlung": Verkürzung von "InventorySystem_Items_ItemBase_o *" in "unsigned char"
+  (Quelldatei „main.cpp“ wird kompiliert)
+  
+C:\Users\kedan\Desktop\IL2CPP\Il2CPP-Base-main\Il2CPP-Base-main\ImGui DirectX 11 Kiero Hook\Functions.h(1424,31): warning C4312: "Typumwandlung": Konvertierung von "int" in größeren Typ "InventorySystem_Items_ItemBase_o *"
+  (Quelldatei „main.cpp“ wird kompiliert)
+  
+C:\Users\kedan\Desktop\IL2CPP\Il2CPP-Base-main\Il2CPP-Base-main\ImGui DirectX 11 Kiero Hook\Functions.h(1424,16): warning C4302: "Typumwandlung": Verkürzung von "InventorySystem_Items_ItemBase_o *" in "unsigned char"
+  (Quelldatei „main.cpp“ wird kompiliert)
+  
+C:\Users\kedan\Desktop\IL2CPP\Il2CPP-Base-main\Il2CPP-Base-main\ImGui DirectX 11 Kiero Hook\Functions.h(1425,31): warning C4312: "Typumwandlung": Konvertierung von "int32_t" in größeren Typ "InventorySystem_Items_ItemBase_o *"
+  (Quelldatei „main.cpp“ wird kompiliert)
+  
+C:\Users\kedan\Desktop\IL2CPP\Il2CPP-Base-main\Il2CPP-Base-main\ImGui DirectX 11 Kiero Hook\Functions.h(1425,16): warning C4302: "Typumwandlung": Verkürzung von "InventorySystem_Items_ItemBase_o *" in "unsigned char"
+  (Quelldatei „main.cpp“ wird kompiliert)
+  
+C:\Users\kedan\Desktop\IL2CPP\Il2CPP-Base-main\Il2CPP-Base-main\ImGui DirectX 11 Kiero Hook\Functions.h(1481,37): warning C4305: "Argument": Verkürzung von "double" in "float"
+  (Quelldatei „main.cpp“ wird kompiliert)
+  
+C:\Users\kedan\Desktop\IL2CPP\Il2CPP-Base-main\Il2CPP-Base-main\ImGui DirectX 11 Kiero Hook\Functions.h(1483,107): warning C4305: "Argument": Verkürzung von "double" in "float"
+  (Quelldatei „main.cpp“ wird kompiliert)
+  
+C:\Users\kedan\Desktop\IL2CPP\Il2CPP-Base-main\Il2CPP-Base-main\ImGui DirectX 11 Kiero Hook\PaternScan.hpp(24,13): warning C4018: ">=": Konflikt zwischen "signed" und "unsigned"
+  (Quelldatei „main.cpp“ wird kompiliert)
+  
+C:\Users\kedan\Desktop\IL2CPP\Il2CPP-Base-main\Il2CPP-Base-main\ImGui DirectX 11 Kiero Hook\main.cpp(1400,107): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+C:\Users\kedan\Desktop\IL2CPP\Il2CPP-Base-main\Il2CPP-Base-main\ImGui DirectX 11 Kiero Hook\main.cpp(1428,26): warning C4244: "Initialisierung": Konvertierung von "float" in "int", möglicher Datenverlust
+C:\Users\kedan\Desktop\IL2CPP\Il2CPP-Base-main\Il2CPP-Base-main\ImGui DirectX 11 Kiero Hook\main.cpp(1475,27): warning C4244: "=": Konvertierung von "float" in "int", möglicher Datenverlust
+C:\Users\kedan\Desktop\IL2CPP\Il2CPP-Base-main\Il2CPP-Base-main\ImGui DirectX 11 Kiero Hook\main.cpp(1485,26): warning C4244: "=": Konvertierung von "float" in "int", möglicher Datenverlust
+C:\Users\kedan\Desktop\IL2CPP\Il2CPP-Base-main\Il2CPP-Base-main\ImGui DirectX 11 Kiero Hook\main.cpp(1493,33): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+C:\Users\kedan\Desktop\IL2CPP\Il2CPP-Base-main\Il2CPP-Base-main\ImGui DirectX 11 Kiero Hook\main.cpp(1508,17): warning C4244: "Initialisierung": Konvertierung von "float" in "int", möglicher Datenverlust
+C:\Users\kedan\Desktop\IL2CPP\Il2CPP-Base-main\Il2CPP-Base-main\ImGui DirectX 11 Kiero Hook\main.cpp(1509,17): warning C4244: "Initialisierung": Konvertierung von "float" in "int", möglicher Datenverlust
+C:\Users\kedan\Desktop\IL2CPP\Il2CPP-Base-main\Il2CPP-Base-main\ImGui DirectX 11 Kiero Hook\main.cpp(1715,35): warning C4305: "=": Verkürzung von "double" in "float"
+x64\Release\Callback.obj : warning LNK4042: Objekt mehrmals angegeben; zusätzliche Objekte werden ignoriert.
+  Code wird generiert.
+  5 of 2867 functions ( 0.2%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    20 functions had inline decision re-evaluated but remain unchanged
+  Codegenerierung ist abgeschlossen.
+  ImGui DirectX 11 Kiero Hook.vcxproj -> C:\Users\kedan\Desktop\IL2CPP\Il2CPP-Base-main\Il2CPP-Base-main\x64\Release\IL2CPP.dll

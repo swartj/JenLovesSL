@@ -1,0 +1,22 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "x64\\Release\\resources.h.obj",
+            "outputs": [
+                "C:\\Users\\kedan\\Desktop\\IL2CPP\\Il2CPP-Base-main\\Il2CPP-Base-main\\ImGui DirectX 11 Kiero Hook\\x64\\Release\\vc143.pdb",
+                "x64\\Release\\",
+                "C:\\Users\\kedan\\Desktop\\IL2CPP\\Il2CPP-Base-main\\Il2CPP-Base-main\\ImGui DirectX 11 Kiero Hook\\x64\\Release\\resources.h.ifc"
+            ],
+            "provides": [
+                {
+                    "logical-name": "resources.h",
+                    "source-path": "c:\\users\\kedan\\desktop\\il2cpp\\il2cpp-base-main\\il2cpp-base-main\\imgui directx 11 kiero hook\\resources.h",
+                    "lookup-method": "absolute"
+                }
+            ],
+            "requires": []
+        }
+    ]
+}

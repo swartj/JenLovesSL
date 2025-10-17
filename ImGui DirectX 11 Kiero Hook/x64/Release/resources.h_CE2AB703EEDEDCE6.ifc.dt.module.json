@@ -1,0 +1,22 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "x64\\Release\\resources.obj",
+            "outputs": [
+                "x64\\Release\\resources.h_CE2AB703EEDEDCE6.ifc.dt.module.json",
+                "x64\\Release\\resources.h_CE2AB703EEDEDCE6.ifc.dt.d.json",
+                "x64\\Release\\resources.h.ifc"
+            ],
+            "provides": [
+                {
+                    "logical-name": "C:\\Users\\kedan\\Downloads\\Il2CPP-Base-main\\Il2CPP-Base-main\\ImGui DirectX 11 Kiero Hook\\resources.h",
+                    "source-path": "c:\\users\\kedan\\downloads\\il2cpp-base-main\\il2cpp-base-main\\imgui directx 11 kiero hook\\resources.h",
+                    "lookup-method": "absolute"
+                }
+            ],
+            "requires": []
+        }
+    ]
+}
