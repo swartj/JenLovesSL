@@ -1622,7 +1622,7 @@ bool LoadImagek(unsigned char* image, size_t image_size, ID3D11ShaderResourceVie
 void LoadResources()
 {
 	ImGuiIO& io = ImGui::GetIO();
-	resources::indicatorFont = io.Fonts->AddFontFromFileTTF("C:\\Users\\kedan\\AppData\\Local\\Microsoft\\Windows\\Fonts\\ARLRDBD.TTF", 20);
+	resources::indicatorFont = io.Fonts->AddFontFromFileTTF("C:\\Users\\\\AppData\\Local\\Microsoft\\Windows\\Fonts\\ARLRDBD.TTF", 20);
 	console.Init(io);
 
 	if (resources::indicatorFont == NULL)
